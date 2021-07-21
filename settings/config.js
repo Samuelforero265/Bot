@@ -1,6 +1,6 @@
 const config = {
-        botName: 'ShanBot',
-        ownerName: 'Shan',
+        botName: 'AnSam',
+        ownerName: 'fr.samuu_',
         youtube: 'YOUTUBE_LINK',
-        instagram: 'INSTAGRAM_LINK',
+        instagram: 'https://www.instagram.com/fr.samuu_/',
 }

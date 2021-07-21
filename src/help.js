@@ -5,9 +5,9 @@ const help = (prefix) => {
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Creador: Ana y Samuel 
+   ○ Como instalar el bot: Sigueme en ig y escribeme al +573112621870
+   ○ Instagram: https://www.instagram.com/fr.samuu_/
 
 
 ◉ *NUEVOS COMANDOS*
@@ -26,7 +26,7 @@ Descargar musica y videos de YT
 ○ ${prefix}version
 Conoce la versión de tu bot
 ○ ${prefix}welmenu
-Comandos de bienvedia a grupos
+Comandos de bienvenida a grupos
 
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
@@ -92,7 +92,7 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 No te olvides de seguirme en instagram flaco ;)
 
 
-ву ѕнαη∂υу
+By Ana y Samuel 
 
 
 ⌜ *ごきげんよう :)* ⌟ 
